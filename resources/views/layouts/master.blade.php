@@ -68,7 +68,7 @@
                         <!-- start contact information -->
                         <div class="col-lg-4 col-md-6 text-center text-md-start sm-margin-20px-bottom">
                             <span class="d-block">Lubumbashi, RD Congo.</span>
-                            <a href="mailto:sales@kreativetouch.agency" title="sales@kreativetouch.agency">sales@kreativetouch.agency</a>   |   +44 (0) 123 456 7890
+                            <a href="mailto:sales@kreativetouch.agency" title="sales@kreativetouch.agency">sales@kreativetouch.agency</a>   |   +243 84 88 577 25
                         </div>
                         <!-- end contact information -->
                         <!-- start social media -->
@@ -76,9 +76,9 @@
                             <a href="index.html"><img class="footer-logo" src="{{ asset('assets/images/logo-white.png') }}" data-at2x="{{ asset('assets/images/logo-white@2x.png') }}" alt="Kreative Touch"></a>
                             <div class="social-icon-style-8">
                                 <ul class="text-extra-small margin-20px-top sm-no-margin-bottom text-uppercase p-0 mb-0 list-unstyled">
-                                    <li class="d-inline-block margin-10px-right"><a href="http://twitter.com" target="_blank" title="Twitter">LinkedIn</a></li>
-                                    <li class="d-inline-block margin-10px-right"><a href="http://instagram.com" target="_blank" title="Instagram">Instagram</a></li>
-                                    <li class="d-inline-block"><a href="http://dribbble.com" target="_blank" title="Dribbble">Pinterst</a></li>
+                                    <li class="d-inline-block margin-10px-right"><a href="https://www.linkedin.com/company/kreative-touch-comms/" target="_blank" title="Twitter">LinkedIn</a></li>
+                                    <li class="d-inline-block margin-10px-right"><a href="https://www.instagram.com/kreativetouch_branding/" target="_blank" title="Instagram">Instagram</a></li>
+                                    <li class="d-inline-block"><a href="https://www.pinterest.com/kreativetouch22/" target="_blank" title="Dribbble">Pinterst</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                 <!-- start copyright -->
                 <div class="footer-bottom border-top border-color-medium-dark-gray padding-40px-top sm-padding-30px-top">
                     <div class="row align-items-center">
-                        <div class="col-md-6 text-md-start text-center text-small">POFO - Portfolio Concept Theme</div>
+                        <div class="col-md-6 text-md-start text-center text-small"></div>
                         <div class="col-md-6 text-md-end text-center text-small">&copy; 2022 <a href="#" target="_blank" title="ThemeZaa">Kreative Touch</a></div>
                     </div>
                 </div>
