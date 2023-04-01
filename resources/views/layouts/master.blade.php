@@ -54,6 +54,9 @@
                 </nav>
                 <!-- end navigation -->
             </header>
+
+            @yield('content')
+
         </div>
         <!-- start footer -->
         <footer class="footer-modern-dark bg-extra-dark-gray padding-five-tb sm-padding-30px-tb">
