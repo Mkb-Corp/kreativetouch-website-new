@@ -43,8 +43,8 @@
                             </button>
                             <div class="navbar-collapse collapse justify-content-end" id="navbar-collapse-toggle-1">
                                 <ul id="accordion" class="nav navbar-nav navbar-left no-margin alt-font text-normal" data-in="animate__fadeIn" data-out="animate__fadeOut">
-                                    <li><a href="#">Accueil</a></li>
-                                    <li><a href="#">Services</a></li>
+                                    <li><a href="{{ route('home') }}">Accueil</a></li>
+                                    <li><a href="{{ route('services') }}">Services</a></li>
                                     <li><a href="#">Portfolio</a></li>
                                     <li><a href="#">Contact</a></li>
                                 </ul>
