@@ -70,7 +70,7 @@
             <!-- Add Pagination -->
             <div class="swiper-pagination swiper-pagination-square"></div>
             <!-- <div class="swiper-button-next light"><i class="ti-angle-right"></i></div>
-                        <div class="swiper-button-prev light"><i class="ti-angle-left"></i></div> -->
+                            <div class="swiper-button-prev light"><i class="ti-angle-left"></i></div> -->
         </div>
     </section>
     <!-- end slider section -->
@@ -85,7 +85,7 @@
                         01</h3>
                     <h5
                         class="text-uppercase alt-font text-extra-dark-gray font-weight-700 w-75 d-inline-block md-d-block mb-0 lg-w-90 md-w-50 xs-w-100">
-                        We are digital media agency.</h5>
+                        Nous sommes une agence branding et media.</h5>
                 </div>
                 <div class="col-12 col-lg-4 col-md-6 sm-margin-30px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
                     <img class="padding-ten-right md-no-padding-right w-100" src="https://via.placeholder.com/700x966"
@@ -93,19 +93,18 @@
                 </div>
                 <div class="col-12 col-lg-4 col-md-6 text-center text-md-start md-padding-six-half-left sm-padding-15px-left wow animate__fadeIn"
                     data-wow-delay="0.4s">
-                    <p class="text-large text-extra-dark-gray">We always stay on the cutting edge of digital, so that our
-                        clients maintain their competitive advantage online.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the
-                        printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
-                        since the 1500s.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        1500s. Lorem Ipsum is simply dummy text.</p>
-                    <a href="about-us-classic.html"
-                        class="alt-font text-uppercase font-weight-600 text-link-extra-dark-gray text-deep-pink-hover text-small">Our
-                        Company History <i
-                            class="fas fa-long-arrow-alt-right margin-5px-left text-deep-pink text-medium position-relative top-2"
-                            aria-hidden="true"></i></a>
+                    <p class="text-large text-extra-dark-gray">Notre agence se spécialise dans la création de
+                        marques innovantes et la stratégie de contenu pour les médias sociaux.</p>
+                    <p>Nous travaillons avec des entreprises de toutes tailles pour aider à créer une identité de marque
+                        forte et cohérente. Nous sommes passionnés par la création de contenus qui engagent et inspirent
+                        notre audience.
+                        Nous avons une vision claire de l'importance de la marque dans le succès des entreprises et notre
+                        mission est d'augmenter la valeur perçue des produits et services de nos clients en plaçant leur
+                        marque au sommet de leur secteur.
+                        </p>
+                    <p>Nous aidons nos clients à se différencier de la concurrence
+                        en créant des images de marque
+                        dynamiques et mémorables qui reflètent leur identité de marque unique.</p>
                 </div>
             </div>
         </div>
