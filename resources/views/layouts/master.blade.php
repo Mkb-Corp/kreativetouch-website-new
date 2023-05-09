@@ -31,7 +31,7 @@
                     <div class="container-lg nav-header-container">
                         <!-- start logo -->
                         <div class="col-auto ps-0">
-                            <a href="index.html" title="Pofo" class="logo"><img src="{{ asset('assets/images/logo.png') }}" data-at2x="{{ asset('assets/images/logo@2x.png') }}" class="logo-dark default" alt="Pofo"><img src="{{ asset('assets/images/logo-white.png') }}" data-at2x="{{ asset('assets/images/logo-white@2x.png') }}" alt="Pofo" class="logo-light"></a>
+                            <a href="{{ route('home') }}" title="Kreative Touch Logo" class="logo"><img src="{{ asset('assets/images/logo.png') }}" data-at2x="{{ asset('assets/images/logo@2x.png') }}" class="logo-dark default" alt="Pofo"><img src="{{ asset('assets/images/logo-white.png') }}" data-at2x="{{ asset('assets/images/logo-white@2x.png') }}" alt="Pofo" class="logo-light"></a>
                         </div>
                         <!-- end logo -->
                         <div class="col accordion-menu pe-0 pe-md-3">
