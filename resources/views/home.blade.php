@@ -88,8 +88,8 @@
                         Nous sommes une agence branding et media.</h5>
                 </div>
                 <div class="col-12 col-lg-4 col-md-6 sm-margin-30px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                    <img class="padding-ten-right md-no-padding-right w-100" src="https://via.placeholder.com/700x966"
-                        alt="">
+                    <img class="padding-ten-right md-no-padding-right w-100" src="{{ asset('assets/images/about-01.jpg') }}"
+                        alt="kreative touch">
                 </div>
                 <div class="col-12 col-lg-4 col-md-6 text-center text-md-start md-padding-six-half-left sm-padding-15px-left wow animate__fadeIn"
                     data-wow-delay="0.4s">
