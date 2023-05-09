@@ -76,7 +76,7 @@
                         <!-- end contact information -->
                         <!-- start social media -->
                         <div class="col-lg-4 col-md-6 social-style-2 text-center text-md-start">
-                            <a href="index.html"><img class="footer-logo" src="{{ asset('assets/images/logo-white.png') }}" data-at2x="{{ asset('assets/images/logo-white@2x.png') }}" alt="Kreative Touch"></a>
+                            <a href="{{ route('home') }}"><img class="footer-logo" src="{{ asset('assets/images/logo-white.png') }}" data-at2x="{{ asset('assets/images/logo-white@2x.png') }}" alt="Kreative Touch"></a>
                             <div class="social-icon-style-8">
                                 <ul class="text-extra-small margin-20px-top sm-no-margin-bottom text-uppercase p-0 mb-0 list-unstyled">
                                     <li class="d-inline-block margin-10px-right"><a href="https://www.linkedin.com/company/kreative-touch-comms/" target="_blank" title="Twitter">LinkedIn</a></li>
