@@ -81,7 +81,7 @@
                                 <ul class="text-extra-small margin-20px-top sm-no-margin-bottom text-uppercase p-0 mb-0 list-unstyled">
                                     <li class="d-inline-block margin-10px-right"><a href="https://www.linkedin.com/company/kreative-touch-comms/" target="_blank" title="Twitter">LinkedIn</a></li>
                                     <li class="d-inline-block margin-10px-right"><a href="https://www.instagram.com/kreativetouch_branding/" target="_blank" title="Instagram">Instagram</a></li>
-                                    <li class="d-inline-block"><a href="https://www.pinterest.com/kreativetouch22/" target="_blank" title="Dribbble">Pinterst</a></li>
+                                    <li class="d-inline-block"><a href="https://www.pinterest.com/kreativetouch22/" target="_blank" title="Dribbble">Pinterest</a></li>
                                 </ul>
                             </div>
                         </div>
