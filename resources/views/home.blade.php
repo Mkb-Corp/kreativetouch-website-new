@@ -157,7 +157,7 @@
                         <li class="grid-item wow animate__zoomIn">
                             <a href="single-project-page-01.html">
                                 <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/770x788"
+                                    <div class="portfolio-img"><img src="{{ asset('assets/img/01.jpg') }}"
                                             alt="" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
@@ -168,11 +168,14 @@
                                                         class="bg-deep-pink mx-auto separator-line-horrizontal-medium-light2 position-relative">
                                                     </div>
                                                     <span
-                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Tailoring
-                                                        Interior</span>
+                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Project 01
+                                                        </span>
                                                     <p
                                                         class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
-                                                        Branding and Brochure</p>
+                                                        Mouve</p>
+                                                        <p class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
+                                                        Flyer Design</p>
+
                                                 </div>
                                             </div>
                                         </div>
@@ -185,7 +188,7 @@
                         <li class="grid-item wow animate__zoomIn" data-wow-delay="0.4s">
                             <a href="single-project-page-03.html">
                                 <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/770x788"
+                                    <div class="portfolio-img"><img src="{{ asset('assets/img/portfolio-02.jpg') }}"
                                             alt="" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
@@ -196,11 +199,14 @@
                                                         class="bg-deep-pink mx-auto separator-line-horrizontal-medium-light2 position-relative">
                                                     </div>
                                                     <span
-                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Pixflow
-                                                        Studio</span>
+                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Project 02
+                                                        </span>
                                                     <p
                                                         class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
-                                                        Branding and Identity</p>
+                                                        Seph's Chic Mode</p>
+                                                    <p
+                                                        class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
+                                                        Brand & Identity Design</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -213,7 +219,7 @@
                         <li class="grid-item grid-item-double wow animate__zoomIn" data-wow-delay="0.2s">
                             <a href="single-project-page-02.html">
                                 <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/770x788"
+                                    <div class="portfolio-img"><img src="{{ asset('assets/img/portfolio-03.jpg') }}"
                                             alt="" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
@@ -224,11 +230,14 @@
                                                         class="bg-deep-pink mx-auto separator-line-horrizontal-medium-light2 position-relative">
                                                     </div>
                                                     <span
-                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Herbal
-                                                        Beauty Salon</span>
+                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Project 03
+                                                        </span>
                                                     <p
                                                         class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
-                                                        Branding and Identity</p>
+                                                        Capital+</p>
+                                                        <p
+                                                        class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
+                                                        Social Media Management</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -241,7 +250,7 @@
                         <li class="grid-item wow animate__zoomIn">
                             <a href="single-project-page-04.html">
                                 <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/770x788"
+                                    <div class="portfolio-img"><img src="{{ asset('assets/img/portfolio-04.jpg') }}"
                                             alt="" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
@@ -252,11 +261,14 @@
                                                         class="bg-deep-pink mx-auto separator-line-horrizontal-medium-light2 position-relative">
                                                     </div>
                                                     <span
-                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Educamp
-                                                        School</span>
+                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Project 04
+                                                        </span>
                                                     <p
                                                         class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
-                                                        Branding and Identity</p>
+                                                        Chez Nono Restaurant</p>
+                                                        <p
+                                                        class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
+                                                        Branding & Identity Design</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -269,7 +281,7 @@
                         <li class="grid-item wow animate__zoomIn" data-wow-delay="0.2s">
                             <a href="single-project-page-06.html">
                                 <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/770x788"
+                                    <div class="portfolio-img"><img src="{{ asset('assets/img/portfolio-05.jpg') }}"
                                             alt="" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
@@ -280,11 +292,14 @@
                                                         class="bg-deep-pink mx-auto separator-line-horrizontal-medium-light2 position-relative">
                                                     </div>
                                                     <span
-                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Designblast
-                                                        Inc</span>
+                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Project 05
+                                                        </span>
                                                     <p
                                                         class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
-                                                        Web and Photography</p>
+                                                        Soirée D'éloquence</p>
+                                                        <p
+                                                        class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
+                                                        Brochure design</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -297,7 +312,7 @@
                         <li class="grid-item grid-item-double wow animate__zoomIn">
                             <a href="single-project-page-05.html">
                                 <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/770x788"
+                                    <div class="portfolio-img"><img src="{{ asset('assets/img/portfolio-06.jpg') }}"
                                             alt="" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
@@ -308,11 +323,14 @@
                                                         class="bg-deep-pink mx-auto separator-line-horrizontal-medium-light2 position-relative">
                                                     </div>
                                                     <span
-                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">HardDot
-                                                        Stone</span>
+                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Project 06
+                                                        </span>
                                                     <p
                                                         class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
-                                                        Branding and Identity</p>
+                                                        Joyful Color</p>
+                                                        <p
+                                                        class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
+                                                        Branding & Identity Design</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -325,7 +343,7 @@
                         <li class="grid-item grid-item-double wow animate__zoomIn" data-wow-delay="0.2s">
                             <a href="single-project-page-07.html">
                                 <figure>
-                                    <div class="portfolio-img"><img src="https://via.placeholder.com/770x788"
+                                    <div class="portfolio-img"><img src="{{ asset('assets/img/portfolio-07.jpg') }}"
                                             alt="" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
@@ -336,11 +354,14 @@
                                                         class="bg-deep-pink mx-auto separator-line-horrizontal-medium-light2 position-relative">
                                                     </div>
                                                     <span
-                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Designblast
-                                                        Inc</span>
+                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Project 07
+                                                        </span>
                                                     <p
                                                         class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
-                                                        Web and Photography</p>
+                                                        Mael Conception</p>
+                                                        <p
+                                                        class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
+                                                        Branding & Identity Design</p>
                                                 </div>
                                             </div>
                                         </div>
