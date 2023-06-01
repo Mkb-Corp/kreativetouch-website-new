@@ -19,7 +19,7 @@
                                 <span
                                     class="title-large alt-font text-extra-dark-gray font-weight-700 w-25 margin-40px-tb sm-margin-20px-tb d-block letter-spacing-minus-2 md-w-60">Haraka
                                     Delivery</span>
-                                <a href="single-project-page-01.html"
+                                <a href="#"
                                     class="btn btn-small btn-dark-gray align-self-start">Explore Work</a>
                             </div>
                         </div>
@@ -39,7 +39,7 @@
                                 <span
                                     class="title-large alt-font text-extra-dark-gray font-weight-700 w-25 margin-40px-tb sm-margin-20px-tb margin-two-tb d-block letter-spacing-minus-2 md-w-60">Ngalu
                                     Business</span>
-                                <a href="single-project-page-02.html"
+                                <a href="#"
                                     class="btn btn-small btn-dark-gray align-self-start">Explore Work</a>
                             </div>
                         </div>
@@ -48,7 +48,7 @@
                 <!-- end slider item -->
                 <!-- start slider item -->
                 <div class="swiper-slide cover-background sm-background-image-center"
-                    style="background-image:url('https://via.placeholder.com/1800x800');">
+                    style="background-image:url('{{ asset('assets/images/slide03.jpg') }}');">
                     <div class="container-fluid position-relative h-100">
                         <div class="row h-100">
                             <div
@@ -57,9 +57,9 @@
                                     class="text-middle-line text-deep-pink d-block w-20 md-text-middle-line sm-w-50">Branding
                                     and Identity</span>
                                 <span
-                                    class="title-large alt-font text-extra-dark-gray font-weight-700 w-25 margin-40px-tb sm-margin-20px-tb margin-two-tb d-block letter-spacing-minus-2 md-w-60">Reutter
-                                    Craft</span>
-                                <a href="single-project-page-03.html"
+                                    class="title-large alt-font text-extra-dark-gray font-weight-700 w-25 margin-40px-tb sm-margin-20px-tb margin-two-tb d-block letter-spacing-minus-2 md-w-60">Chez
+                                    Nono</span>
+                                <a href="#"
                                     class="btn btn-small btn-dark-gray align-self-start">Explore Work</a>
                             </div>
                         </div>
@@ -124,7 +124,7 @@
                         Créativité, Stratégie et Innovation.</h5>
                 </div>
                 <div class="col-12 col-lg-4 col-md-6 sm-margin-30px-bottom wow animate__fadeIn">
-                    <img class="padding-ten-right md-no-padding-right w-100" src="https://via.placeholder.com/700x966"
+                    <img class="padding-ten-right md-no-padding-right w-100" src="{{ asset('assets/images/about-02.jpg') }}"
                         alt="">
                 </div>
                 <div
