@@ -354,10 +354,9 @@
                                                         class="bg-deep-pink mx-auto separator-line-horrizontal-medium-light2 position-relative">
                                                     </div>
                                                     <span
-                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block">Project 07
+                                                        class="font-weight-600 letter-spacing-1 alt-font text-white-2 text-uppercase margin-5px-bottom d-block"> Mael Conception
                                                         </span>
                                                     <p
-                                                        class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
                                                         Mael Conception</p>
                                                         <p
                                                         class="text-medium-gray letter-spacing-1 text-uppercase text-extra-small">
